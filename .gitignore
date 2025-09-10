@@ -8,3 +8,5 @@
 /public
 /config
 /data
+.env
+.env.local
